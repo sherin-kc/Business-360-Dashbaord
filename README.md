@@ -1,4 +1,5 @@
 # Business-360-Dashbaord
+public link:- https://app.powerbi.com/view?r=eyJrIjoiNTQ3OTJiMjctZTBmZS00MWQ4LTgxYjgtN2ZmMGE4OTJmMDllIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 Project Short Info: 
 
